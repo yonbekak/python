@@ -26,3 +26,6 @@ year_100 =  birth_year + 100
 
 
 print(name, ",you will be 100 years old in ", year_100)
+
+
+#This is just one example of computing the poblem. There can be other methods
